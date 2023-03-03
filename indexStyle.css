@@ -10,9 +10,11 @@
 }
 
 body{
-    
+    background:linear-gradient(to top left, rgb(178, 240, 229),white) no-repeat;
     color:#1e1e2c;
-    
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
 }
 
 .dark-light-button{
